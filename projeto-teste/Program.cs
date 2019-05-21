@@ -6,8 +6,11 @@ namespace projeto_teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo");
+           
             Console.WriteLine("Teste de repositório GITHUB");
+
+            Console.WriteLine("Tenha um Bom dia");
+
         }
     }
 }
